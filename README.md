@@ -5,4 +5,7 @@
 * Course notes
 
 # Recommendar lectures
-* [Object_recognition](https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/)
+* Blogs
+    * [Object_recognition](https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/)
+* Papers
+    * [Fast R-CNN](https://arxiv.org/abs/1504.08083)
