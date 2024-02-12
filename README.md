@@ -3,5 +3,6 @@
 
 # Notes, documentations and more
 * Course notes
-  
+
 # Recommendar lectures
+* [Object_recognition](https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/)
