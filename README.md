@@ -14,3 +14,11 @@
     * [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
     * [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
     * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
+    * [Papers ft. Code](https://paperswithcode.com/)
+* Dataset de object detection
+   * [Tensorflow](https://www.tensorflow.org/datasets/catalog/overview)
+   * [Car Object Detection](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)
+   * [Self-Driving Cars](https://www.kaggle.com/datasets/alincijov/self-driving-cars)
+   * [COCO](https://cocodataset.org/#home)
+   * [The PASCAL Visual Object Classes](http://host.robots.ox.ac.uk/pascal/VOC/)
+   * [The KITTI Vision Benchmark Suite](https://www.cvlibs.net/datasets/kitti/)
