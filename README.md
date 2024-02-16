@@ -2,7 +2,7 @@
 📖 Notes, notebooks, and resources from the course 👾 object detection and segmentation feat tf
 
 # Notes, documentations and more
-* Course notes
+* [Course notes](https://github.com/ichcanziho/Deep_Learnining_Platzi/blob/master/6%20Curso%20de%20detecci%C3%B3n%20y%20segmentaci%C3%B3n%20de%20objetos%20con%20Tensorflow/README.MD#210-visualizaci%C3%B3n-de-bounding-boxes-en-el-dataset-de-object-detection)
 
 # Recommendar lectures
 * Blogs
