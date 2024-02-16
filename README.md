@@ -7,6 +7,8 @@
 # Recommendar lectures
 * Blogs
     * [Object_recognition](https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/)
+    * [albumentations](https://albumentations.ai/docs/)
+    * [self supervised monocular depth estimation santosh sawant](https://www.linkedin.com/pulse/self-supervised-monocular-depth-estimation-santosh-sawant/)
 * Papers
     * [Fast R-CNN](https://arxiv.org/abs/1504.08083)
     * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
