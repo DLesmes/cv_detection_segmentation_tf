@@ -19,6 +19,7 @@
     * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
     * [Papers ft. Code](https://paperswithcode.com/)
     * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+    * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 * Dataset de object detection
    * [Tensorflow](https://www.tensorflow.org/datasets/catalog/overview)
    * [Car Object Detection](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)
