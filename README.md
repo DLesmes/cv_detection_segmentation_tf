@@ -6,20 +6,29 @@
 
 # Recommendar lectures
 * Blogs
-    * [Object_recognition](https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/)
-    * [albumentations](https://albumentations.ai/docs/)
-    * [self supervised monocular depth estimation santosh sawant](https://www.linkedin.com/pulse/self-supervised-monocular-depth-estimation-santosh-sawant/)
-    * [Coeficiente_de_Sorensen-Dice](https://es.wikipedia.org/wiki/Coeficiente_de_Sorensen-Dice)
+   * Object Detection 
+      * [Object_recognition](https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/)
+      * [albumentations](https://albumentations.ai/docs/)
+      * [self supervised monocular depth estimation santosh sawant](https://www.linkedin.com/pulse/self-supervised-monocular-depth-estimation-santosh-sawant/)
+      * [Coeficiente_de_Sorensen-Dice](https://es.wikipedia.org/wiki/Coeficiente_de_Sorensen-Dice)
+   * Segmentation
+      * [YOLOv8](https://docs.ultralytics.com/tasks/segment/) 
 * Papers
-    * [Fast R-CNN](https://arxiv.org/abs/1504.08083)
-    * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
-    * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
-    * [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
-    * [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
-    * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
-    * [Papers ft. Code](https://paperswithcode.com/)
-    * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
-    * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
+   * Object detection
+      * [Fast R-CNN](https://arxiv.org/abs/1504.08083)
+      * [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+      * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
+      * [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
+      * [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
+      * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
+   * Segmentation
+      * [Papers ft. Code](https://paperswithcode.com/)
+      * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+      * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
+* Repos
+   * Segmentation
+      * [SAM - Segment Anything](https://github.com/facebookresearch/segment-anything)
+      * [detectron2](https://github.com/facebookresearch/detectron2)
 * Dataset de object detection
    * [Tensorflow](https://www.tensorflow.org/datasets/catalog/overview)
    * [Car Object Detection](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)
