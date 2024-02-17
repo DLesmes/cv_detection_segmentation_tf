@@ -25,6 +25,9 @@
       * [Papers ft. Code](https://paperswithcode.com/)
       * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
       * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
+* Videos
+   * Segmentation
+     * [U-NET para segmentación semántica, explicación del paper](https://www.youtube.com/watch?v=waIPUsecaaQ)
 * Repos
    * Segmentation
       * [SAM - Segment Anything](https://github.com/facebookresearch/segment-anything)
