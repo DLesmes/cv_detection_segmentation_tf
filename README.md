@@ -29,6 +29,8 @@
    * Segmentation
       * [SAM - Segment Anything](https://github.com/facebookresearch/segment-anything)
       * [detectron2](https://github.com/facebookresearch/detectron2)
+      * [Mask R-CNN for Object Detection and Segmentation](https://github.com/matterport/Mask_RCNN)
+      * [Mask R-CNN - releases](https://github.com/matterport/Mask_RCNN/releases)
 * Dataset
   * Object detection
     * [Tensorflow](https://www.tensorflow.org/datasets/catalog/overview)
