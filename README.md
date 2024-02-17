@@ -29,10 +29,19 @@
    * Segmentation
       * [SAM - Segment Anything](https://github.com/facebookresearch/segment-anything)
       * [detectron2](https://github.com/facebookresearch/detectron2)
-* Dataset de object detection
-   * [Tensorflow](https://www.tensorflow.org/datasets/catalog/overview)
-   * [Car Object Detection](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)
-   * [Self-Driving Cars](https://www.kaggle.com/datasets/alincijov/self-driving-cars)
-   * [COCO](https://cocodataset.org/#home)
-   * [The PASCAL Visual Object Classes](http://host.robots.ox.ac.uk/pascal/VOC/)
-   * [The KITTI Vision Benchmark Suite](https://www.cvlibs.net/datasets/kitti/)
+* Dataset
+  * Object detection
+    * [Tensorflow](https://www.tensorflow.org/datasets/catalog/overview)
+    * [Car Object Detection](https://www.kaggle.com/datasets/sshikamaru/car-object-detection)
+    * [Self-Driving Cars](https://www.kaggle.com/datasets/alincijov/self-driving-cars)
+    * [COCO](https://cocodataset.org/#home)
+    * [The PASCAL Visual Object Classes](http://host.robots.ox.ac.uk/pascal/VOC/)
+    * [The KITTI Vision Benchmark Suite](https://www.cvlibs.net/datasets/kitti/)
+  * Segmentation
+    * [Human-Segmentation-Dataset](https://github.com/VikramShenoy97/Human-Segmentation-Dataset)
+    * [Cityscapes Dataset](https://www.cityscapes-dataset.com/)
+    * [ADE20K](https://groups.csail.mit.edu/vision/datasets/ADE20K/)
+    * [Kitti](https://www.cvlibs.net/datasets/kitti/)
+    * [Pascal VOC data sets](http://host.robots.ox.ac.uk/pascal/VOC/)
+    * [CamSeq 2007 (Semantic Segmentation)](https://www.kaggle.com/datasets/carlolepelaars/camseq-semantic-segmentation)
+    * [cvlibs - Downloads](https://www.cvlibs.net/download.php?file=data_road.zip)
